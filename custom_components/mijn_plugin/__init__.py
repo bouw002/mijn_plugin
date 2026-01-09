@@ -1,1 +1,0 @@
-"""Mijn Plugin integration."""

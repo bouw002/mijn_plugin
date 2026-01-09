@@ -1,0 +1,12 @@
+{
+  "domain": "my_example",
+  "name": "My Example Integration",
+  "version": "0.1.0",
+  "documentation": "https://github.com/bouw002/mijn_plugin",
+  "issue_tracker": "https://github.com/bouw002/mijn_plugin/issues",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "codeowners": ["@bouw002"],
+  "integration_type": "hub",
+  "config_flow": true
+}

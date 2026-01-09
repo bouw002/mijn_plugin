@@ -1,5 +1,6 @@
 {
-  "name": "Mijn Plugin",
-  "content_in_root": false,
-  "domain": "mijn_plugin"
+  "name": "My Example Integration",
+  "render_readme": true,
+  "country": ["US", "NL"],
+  "domains": ["sensor"]
 }
