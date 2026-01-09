@@ -1,0 +1,8 @@
+{
+  "name": "Mijn Test Plugin",
+  "content_in_root": true,
+  "filename": "mijn-plugin.js",
+  "type": "plugin",
+  "zip_release": false,
+  "description": "Eenvoudige test frontend plugin / Lovelace custom card voor HACS"
+}
